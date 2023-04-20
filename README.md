@@ -4,10 +4,10 @@ Linux build to collect wifiprobs.
 
 ## Needed Hardware
 
-Linux computer
-working Alfa card
-GPS puck (optional)
-Internet connection
+Linux computer</br>
+working Alfa card</br>
+GPS puck (optional)</br>
+Internet connection</br>
 
 ## This is a work in progress</br>
 I will have the finished product done shortly</br>
