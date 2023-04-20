@@ -1,5 +1,5 @@
 # Probecollector
-Linux build to collect wifiprobs.  
+Linux build to collect wifiprobes.  
 **Note for educational purposes only**
 
 ## Needed Hardware
