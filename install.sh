@@ -142,7 +142,7 @@ EOF
 chmod +x /root/zero.sh
 
 #disable system logging
-systemctl mask syslog.cocket rsyslog.service systemd-journal.service
+systemctl mask syslog.socket rsyslog.service systemd-journal.service
 
 echo "done for now"
 sleep 3
